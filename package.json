@@ -9,6 +9,7 @@
     "export": "next export"
   },
   "dependencies": {
+    "cross-fetch": "^3.0.6",
     "next": "10.0.1",
     "react": "17.0.1",
     "react-dom": "17.0.1"
